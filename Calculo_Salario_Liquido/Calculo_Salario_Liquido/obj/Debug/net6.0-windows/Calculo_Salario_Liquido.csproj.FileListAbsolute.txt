@@ -1,0 +1,17 @@
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\bin\Debug\net6.0-windows\Calculo_Salario_Liquido.exe
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\bin\Debug\net6.0-windows\Calculo_Salario_Liquido.deps.json
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\bin\Debug\net6.0-windows\Calculo_Salario_Liquido.runtimeconfig.json
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\bin\Debug\net6.0-windows\Calculo_Salario_Liquido.dll
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\bin\Debug\net6.0-windows\Calculo_Salario_Liquido.pdb
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.csproj.AssemblyReference.cache
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.Form1.resources
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.csproj.GenerateResource.cache
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.AssemblyInfoInputs.cache
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.AssemblyInfo.cs
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.dll
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\refint\Calculo_Salario_Liquido.dll
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.pdb
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\Calculo_Salario_Liquido.genruntimeconfig.cache
+C:\Users\Vitoria\Desktop\Calculo_Salario_Liquido\Calculo_Salario_Liquido\obj\Debug\net6.0-windows\ref\Calculo_Salario_Liquido.dll
